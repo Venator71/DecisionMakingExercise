@@ -1,4 +1,4 @@
-let randomNum = Math.floor((Math.random()*6)+1);
+let randomNum = Math.floor((Math.random()*5)+1);
 
 console.log(randomNum);
 if (randomNum ===3 || randomNum ===2){
